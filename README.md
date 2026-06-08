@@ -21,13 +21,6 @@ A recommendation system that suggests items based on user preferences and simila
 
 *Technologies Used:*
 - Python
-# Screenshots
+## Author 
+Harshitha Duduru
 
-### Chatbot Project
-![Chatbot](screenshots/chatbot.png)
-
-### Main Project
-![Main Project](screenshots/main-project.png)
-
-### Play Project
-![Play Project](screenshots/play-project.png)
